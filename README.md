@@ -19,6 +19,10 @@ The Dark Sky API was shut down on March 31, 2023, and has been replaced by Apple
 Information about the Dark Sky API can still be found in a [capture made by the Internet Archive](https://web.archive.org/web/20200723173936/https://darksky.net/dev/docs).<br>
 Pirate Weather and Visual Crossing aim at offering a replacement for the Dark Sky API. See [this blog post by Visual Crossing](https://www.visualcrossing.com/resources/blog/how-to-replace-the-dark-sky-api-using-the-visual-crossing-timeline-weather-api/) and information in the [Pirate Weather documentation](https://pirateweather.net/en/latest/API/).
 
+### Dark Sky (not available any more)
+Here are all the possible icon names that were returned when calling the Dark Sky API:<br>
+icons codes : clear-day, clear-night, rain, snow, sleet, wind, fog, cloudy, partly-cloudy-day, partly-cloudy-night
+
 ### Pirate Weather
 Here are all the possible icon names returned when calling the Pirate Weather API:<br>
 clear-day, clear-night, thunderstorm, rain, snow, sleet, wind, fog, cloudy, partly-cloudy-day, partly-cloudy-night<br>
@@ -30,17 +34,18 @@ clear-day, clear-night, rain, snow, wind, fog, cloudy, partly-cloudy-day, partly
 
 ### Comparison
 
-| Icon codes          | Pirate Weather | Visual Crossing |
-| ------------------- | -------------- | --------------- |
-| clear-day           | Used           | Used            |
-| clear-night         | Used           | Used            |
-| rain                | Used           | Used            |
-| snow                | Used           | Used            |
-| wind                | Used           | Used            |
-| fog                 | Used           | Used            |
-| cloudy              | Used           | Used            |
-| partly-cloudy-day   | Used           | Used            |
-| partly-cloudy-night | Used           | Used            |
-| thunderstorm        | Used           | **Not used**    |
-| sleet               | Used           | **Not used**    |
+| Icon codes          | Dark Sky     | Pirate Weather | Visual Crossing |
+| ------------------- | ------------ | -------------- | --------------- |
+| clear-day           | Used         | Used           | Used            |
+| clear-night         | Used         | Used           | Used            |
+| rain                | Used         | Used           | Used            |
+| snow                | Used         | Used           | Used            |
+| wind                | Used         | Used           | Used            |
+| fog                 | Used         | Used           | Used            |
+| cloudy              | Used         | Used           | Used            |
+| partly-cloudy-day   | Used         | Used           | Used            |
+| partly-cloudy-night | Used         | Used           | Used            |
+| sleet               | Used         | Used           | **Not used**    |
+| thunderstorm        | **Not used** | Used           | **Not used**    |
+
 
