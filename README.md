@@ -4,7 +4,7 @@ Collections of weather icons suitable for epaper displays and compatible with fr
 
 ## Goal
 My main objective is to be able to use my epaper display (SeeedStudio reTerminal E1001) with sources of weather data other than the built-in one included in the no-code Sensecraft HMI.
-This no-code environment has many restrictions. I want to be able to use third-party free APIs to get the weather data, and display appropriate icons.
+I want to be able to use third-party free APIs to get the weather data, and display appropriate icons. This no-code environment has many restrictions, so the suitable icons sets also have to meet specific criteria. 
 
 ## Compatible APIs
 The first objective is to support the following weather APIs offering a free tier for home usage:
