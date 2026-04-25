@@ -18,7 +18,7 @@ The reference epaper device used to test these icons and APIs is:
 Information will be given regarding how to configure a Sensecraft dashboard to use these APIs and icons.
 
 ## Icon naming
-Both Pirate Weather and Visual Crossing use a naming scheme based on the defunct weather app Dark Sky, bought by Apple in 2020.<br>
+Both Pirate Weather and Visual Crossing use a naming scheme based on the defunct weather app Dark Sky, launched in 2012 and bought by Apple in 2020.<br>
 The Dark Sky API was shut down on March 31, 2023, and has been replaced by Apple's WeatherKit API that is more difficult to implement and does not use the same namings for weather conditions.<br>
 Information about the Dark Sky API can still be found in a [capture made by the Internet Archive](https://web.archive.org/web/20200723173936/https://darksky.net/dev/docs).<br>
 Pirate Weather and Visual Crossing aim at offering a replacement for the Dark Sky API. See [this blog post by Visual Crossing](https://www.visualcrossing.com/resources/blog/how-to-replace-the-dark-sky-api-using-the-visual-crossing-timeline-weather-api/) and information in the [Pirate Weather documentation](https://pirateweather.net/en/latest/API/).
