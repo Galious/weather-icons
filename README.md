@@ -8,8 +8,8 @@ I want to be able to use third-party free APIs to get the weather data, and disp
 
 ## Compatible APIs
 The first objective is to support the following weather APIs offering a free tier for home usage:
-* Pirate Weather (up to 10,000 API requests per month in the free plan, amounting to 320 per day, more than 13 per hour)
-* Visual Crossing (up to 1,000 API requests per day in the free plan, amounting to 41 per hour)
+* [Pirate Weather](https://pirateweather.net) (up to 10,000 API requests per month in the free plan, amounting to 320 per day, more than 13 per hour)
+* [Visual Crossing](https://www.visualcrossing.com) (up to 1,000 API requests per day in the free plan, amounting to 41 per hour)
 
 ## Devices
 The reference epaper device used to test these icons and API is:
