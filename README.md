@@ -3,14 +3,15 @@
 Collections of weather icons suitable for epaper displays and compatible with free APIs.
 
 ## Goal
-The main objective of this project is to be able to use an epaper display ([SeeedStudio](https://www.seeedstudio.com) [reTerminal E1001](https://www.seeedstudio.com/reTerminal-E1001-p-6534.html)) with sources of weather data other than the built-in one included in the no-code [Sensecraft HMI](https://sensecraft.seeed.cc/hmi) design environment.
-One should be able to use third-party free APIs to get the weather data, and display appropriate icons. This no-code environment has many restrictions, so the suitable icons sets also have to meet specific criteria.
-Currently, using third-party weather icons to display weather data coming from third-party APIs causes display anomalies (the weather icons are distorted).
+The main objective of this project is to be able to use an epaper display ([SeeedStudio](https://www.seeedstudio.com) [reTerminal E1001](https://www.seeedstudio.com/reTerminal-E1001-p-6534.html)) with sources of weather data other than the built-in one included in the no-code [Sensecraft HMI](https://sensecraft.seeed.cc/hmi) design environment. This built-in weather data suffers from several issues : no sun is shown in the icons representing partly cloudy or showers conditions, resulting most of the time in the display of a cloud.<br>
+One should be able to use third-party free APIs to get weather data, and display appropriate icons. This no-code environment has many restrictions, so the suitable icons sets also have to meet specific criteria.<br>
+Currently, using third-party weather icons to display weather data coming from third-party APIs causes display anomalies (the weather icons are distorted because they are not square).
 
 ## Compatible APIs
 The first objective is to support the following weather APIs offering a free tier for home usage:
 * [Pirate Weather](https://pirateweather.net) (up to 10,000 API requests per month in the free plan, amounting to 320 per day, more than 13 per hour)
 * [Visual Crossing](https://www.visualcrossing.com) (up to 1,000 API requests per day in the free plan, amounting to 41 per hour)
+One drawback of using these API is a more limited set of different icons/weather conditions, notably no icon for drizzle or showers.
 
 ## Devices
 The reference epaper device used to test these icons and APIs is:
