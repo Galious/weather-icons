@@ -35,7 +35,8 @@ clear-day, clear-night, thunderstorm, rain, snow, sleet, wind, fog, cloudy, part
 
 ### Visual Crossing
 Here are all the icon names returned when calling the Visual Crossing API using the default (smallest) icon set:<br>
-clear-day, clear-night, rain, snow, wind, fog, cloudy, partly-cloudy-day, partly-cloudy-night
+clear-day, clear-night, rain, snow, wind, fog, cloudy, partly-cloudy-day, partly-cloudy-night<br>
+[Link to the relevant Visual Crossing documentation](https://www.visualcrossing.com/resources/documentation/weather-api/defining-icon-set-in-the-weather-api/))
 
 ### Comparison
 
