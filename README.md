@@ -26,7 +26,7 @@ Information about the Dark Sky API can still be found in a [capture made by the 
 Pirate Weather and Visual Crossing aim at offering a replacement for the Dark Sky API. See [this blog post by Visual Crossing](https://www.visualcrossing.com/resources/blog/how-to-replace-the-dark-sky-api-using-the-visual-crossing-timeline-weather-api/) and information in the [Pirate Weather documentation](https://pirateweather.net/en/latest/API/).
 
 ### Dark Sky (not available any more)
-Here are all the possible icon names that were returned when calling the Dark Sky API:<br>
+Here are all the possible icon names that were returned when calling the Dark Sky API using the default (smallest) icon set:<br>
 clear-day, clear-night, rain, snow, sleet, wind, fog, cloudy, partly-cloudy-day, partly-cloudy-night
 
 ### Pirate Weather
