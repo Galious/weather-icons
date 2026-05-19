@@ -76,6 +76,14 @@ You can look at the following projects:
 * [John Graham-Cumming's eink-weather](https://github.com/jgrahamc/eink_weather/tree/main/icons/svgs) : no icon for *thunderstorm*
 * [Paul Reed's weather icons lite](https://github.com/Paul-Reed/weather-icons-lite/tree/master/images) : not black and white, names not following the Dark Sky naming pattern, no SVG
 * [Erik Flowers'Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/svg) : names not following the Dark Sky naming pattern
-
+* [Yorlmar Campos' Weather Line Icons Collection](https://www.svgrepo.com/collection/weather-line-icons/) :  names not following the Dark Sky naming pattern
 I have not found an icon set designed specifically for Pirate Weather yet.
 
+## Roadmap
+- [X] Defining the goal of the project
+- [X] Researching weather APIs that are free for home use (may still find some others later)
+- [X] Listing all the possible weather conditions codes that can be used for icons in the API responses
+- [ ] Searching for weather icon collections using the Dark Sky format (**in progress**)
+- [ ] Adding information about the licences used by these collections
+- [ ] Converting several collections to the appropriate format and include them in this repo
+- [ ] Adding some non-weather 'general usage' icons to this repo (such as a warning sign or a blank icon)
