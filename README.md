@@ -71,12 +71,12 @@ For the moment, I did not manage to find an icon set that ticks all the boxes:
 * names following the Dark Sky naming pattern
 * if possible, SVG format
 
-You can look at the following projects:
-* [Visual Crossing's WeatherIcons](https://github.com/visualcrossing/WeatherIcons/tree/main/SVG/2nd%20Set%20-%20Monochrome) (4 different sets available) : not square, no icon for *thunderstorm* (there is *thunder* instead)
-* [John Graham-Cumming's eink-weather](https://github.com/jgrahamc/eink_weather/tree/main/icons/svgs) : no icon for *thunderstorm*
-* [Paul Reed's weather icons lite](https://github.com/Paul-Reed/weather-icons-lite/tree/master/images) : not black and white, names not following the Dark Sky naming pattern, no SVG
-* [Erik Flowers'Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/svg) : names not following the Dark Sky naming pattern
-* [Yorlmar Campos' Weather Line Icons Collection](https://www.svgrepo.com/collection/weather-line-icons/) :  names not following the Dark Sky naming pattern
+The following projects could be used as non-satisfying alternatives or sources for suitable icons:
+* [Visual Crossing's WeatherIcons](https://github.com/visualcrossing/WeatherIcons/tree/main/SVG/2nd%20Set%20-%20Monochrome) (4 different sets available) : not square, no icon for *thunderstorm* (there is *thunder* instead). License : [LGPL-3.0](https://opensource.org/license/LGPL-3.0)
+* [John Graham-Cumming's eink-weather](https://github.com/jgrahamc/eink_weather/tree/main/icons/svgs) : no icon for *thunderstorm*. License : [Apache-2.0](https://opensource.org/license/apache-2.0)
+* [Paul Reed's weather icons lite](https://github.com/Paul-Reed/weather-icons-lite/tree/master/images) : not black and white, names not following the Dark Sky naming pattern, no SVG. License : [MIT](https://opensource.org/license/mit)
+* [Erik Flowers' Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/svg) : names not following the Dark Sky naming pattern. License : [SIL OFL 1.1](https://opensource.org/license/OFL-1.1)
+* [Yorlmar Campos' Weather Line Icons Collection](https://www.svgrepo.com/collection/weather-line-icons/) :  names not following the Dark Sky naming pattern. License : [CC BY](https://creativecommons.org/licenses/by/4.0/)
 
 I have not found an icon set designed specifically for Pirate Weather yet.
 
@@ -86,6 +86,6 @@ I have not found an icon set designed specifically for Pirate Weather yet.
 - [X] Listing all the possible weather conditions codes that can be used for icons in the API responses
 - [X] Searching for weather icon collections using the Dark Sky format
 - [ ] Searching for other weather icon collections that would display nicely (**in progress**)
-- [ ] Adding information about the licences used by these collections
-- [ ] Converting several collections to the appropriate format and include them in this repo
+- [ ] Adding information about the licenses used by these collections (**in progress**)
+- [ ] Converting several collections to a suitable format and include them in this repo
 - [ ] Adding some non-weather 'general usage' icons to this repo (such as a warning sign or a blank icon)
