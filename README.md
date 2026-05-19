@@ -83,7 +83,8 @@ I have not found an icon set designed specifically for Pirate Weather yet.
 - [X] Defining the goal of the project
 - [X] Researching weather APIs that are free for home use (may still find some others later)
 - [X] Listing all the possible weather conditions codes that can be used for icons in the API responses
-- [ ] Searching for weather icon collections using the Dark Sky format (**in progress**)
+- [X] Searching for weather icon collections using the Dark Sky format
+- [ ] Searching for other weather icon collections that would display nicely (**in progress**)
 - [ ] Adding information about the licences used by these collections
 - [ ] Converting several collections to the appropriate format and include them in this repo
 - [ ] Adding some non-weather 'general usage' icons to this repo (such as a warning sign or a blank icon)
