@@ -77,6 +77,7 @@ You can look at the following projects:
 * [Paul Reed's weather icons lite](https://github.com/Paul-Reed/weather-icons-lite/tree/master/images) : not black and white, names not following the Dark Sky naming pattern, no SVG
 * [Erik Flowers'Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/svg) : names not following the Dark Sky naming pattern
 * [Yorlmar Campos' Weather Line Icons Collection](https://www.svgrepo.com/collection/weather-line-icons/) :  names not following the Dark Sky naming pattern
+
 I have not found an icon set designed specifically for Pirate Weather yet.
 
 ## Roadmap
