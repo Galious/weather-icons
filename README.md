@@ -26,7 +26,7 @@ Pirate Weather and Visual Crossing aim at offering a replacement for the Dark Sk
 
 ### Dark Sky (not available any more)
 Here are all the possible icon names that were returned when calling the Dark Sky API:<br>
-icons codes : clear-day, clear-night, rain, snow, sleet, wind, fog, cloudy, partly-cloudy-day, partly-cloudy-night
+clear-day, clear-night, rain, snow, sleet, wind, fog, cloudy, partly-cloudy-day, partly-cloudy-night
 
 ### Pirate Weather
 Here are all the possible icon names returned when calling the Pirate Weather API:<br>
