@@ -78,7 +78,7 @@ The following projects could be used as sources for suitable icons (provided the
 
 The following other projects are non-satisfying sources of suitable icons:
 * <img src='https://raw.githubusercontent.com/jgrahamc/eink_weather/refs/heads/main/icons/svgs/partly-cloudy-day.svg' width='30' height='30'> [John Graham-Cumming's eink-weather](https://github.com/jgrahamc/eink_weather/tree/main/icons/svgs) : no icon for *thunderstorm*. License : [Apache-2.0](https://opensource.org/license/apache-2.0)
-* <img src='https://raw.githubusercontent.com/Paul-Reed/weather-icons-lite/refs/heads/master/images/f002.jpg' width='30' height='30'> [Paul Reed's weather icons lite](https://github.com/Paul-Reed/weather-icons-lite/tree/master/images) : not black and white, names not following the Dark Sky naming pattern, no SVG. License : [MIT](https://opensource.org/license/mit)
+* <img src='https://raw.githubusercontent.com/Paul-Reed/weather-icons-lite/refs/heads/master/images/f002.jpg' width='30' height='30'> [Paul Reed's weather icons lite](https://github.com/Paul-Reed/weather-icons-lite/tree/master/images) : not black and white, names not following the Dark Sky naming pattern, no SVG. Based on designs by [Lukas Bischoff](http://artill.de) and [Erik Flowers](https://github.com/erikflowers/weather-icons/tree/master/svg).License : [MIT](https://opensource.org/license/mit)
 
 I have not found an icon set designed specifically for Pirate Weather yet.
 
