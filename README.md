@@ -11,6 +11,7 @@ Currently, using third-party weather icons to display weather data coming from t
 The first objective is to support the following weather APIs offering a free tier for home usage:
 * [Pirate Weather](https://pirateweather.net) (up to 10,000 API requests per month in the free plan, amounting to 320 per day, more than 13 per hour)
 * [Visual Crossing](https://www.visualcrossing.com) (up to 1,000 API requests per day in the free plan, amounting to 41 per hour)<br>
+
 One drawback to using these API is getting a more limited set of different icons/weather conditions, notably no icon for drizzle or showers.
 
 ## Devices
