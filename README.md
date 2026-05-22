@@ -101,6 +101,7 @@ Sets of files named according to the Dark Sky naming scheme:
 - [ ] Searching for other weather icon collections that would display nicely (**in progress**)
 - [ ] Adding information about the licenses used by these collections (**in progress**)
 - [ ] Converting several collections to a suitable format and include them in this repo (**in progress**)
-  - [X] Converting [Erik Flowers' Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/svg)
-  - [ ] Converting [Yorlmar Campos' Weather Line Icons Collection](https://www.svgrepo.com/collection/weather-line-icons/)
+  - [X] Converting [Erik Flowers' Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/svg) => set1
+  - [ ] Converting [Yorlmar Campos' Weather Line Icons Collection](https://www.svgrepo.com/collection/weather-line-icons/) => set2
+- [ ] Testing set1 with Sensecraft
 - [ ] Adding some non-weather 'general usage' icons to this repo (such as a warning sign or a blank icon)
