@@ -83,6 +83,17 @@ The following other projects are non-satisfying sources of suitable icons:
 
 I have not found an icon set designed specifically for Pirate Weather yet.
 
+## Content of this repo
+
+### "ds-naming" folder
+Sets of files named according to the WMO (World Meteorological Organization) naming scheme.
+
+### "ds-naming" folder
+Sets of files named according to the Dark Sky naming scheme.
+
+#### "set1" folder
+Icons coming from [Erik Flowers' Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/svg), just renamed. License : [SIL OFL 1.1](https://opensource.org/license/OFL-1.1)
+
 ## Roadmap
 - [X] Defining the goal of the project
 - [X] Researching weather APIs that are free for home use (may still find some others later)
