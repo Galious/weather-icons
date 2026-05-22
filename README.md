@@ -85,14 +85,13 @@ I have not found an icon set designed specifically for Pirate Weather yet.
 
 ## Content of this repo
 
-### "ds-naming" folder
-Sets of files named according to the WMO (World Meteorological Organization) naming scheme.
+### "WMO-naming" folder
+Sets of files named according to the WMO (World Meteorological Organization) naming scheme (also used by the Open-Meteo.com API and Sensecraft):
+- "Weather Icons by Yorlmar Campos" : icons coming from [Yorlmar Campos' Weather Line Icons Collection](https://www.svgrepo.com/collection/weather-line-icons/), simply renamed. License : [CC BY](https://creativecommons.org/licenses/by/4.0/)
 
 ### "ds-naming" folder
-Sets of files named according to the Dark Sky naming scheme.
-
-#### "set1" folder
-Icons coming from [Erik Flowers' Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/svg), just renamed. License : [SIL OFL 1.1](https://opensource.org/license/OFL-1.1)
+Sets of files named according to the Dark Sky naming scheme:
+- "set1" folder : icons coming from [Erik Flowers' Weather Icons](https://github.com/erikflowers/weather-icons/tree/master/svg), simply renamed. License : [SIL OFL 1.1](https://opensource.org/license/OFL-1.1)
 
 ## Roadmap
 - [X] Defining the goal of the project
